@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "yargs": "^13.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelhenao0511/cursoNode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miguelhenao0511/cursoNode/issues"
+  },
+  "homepage": "https://github.com/miguelhenao0511/cursoNode#readme"
 }
